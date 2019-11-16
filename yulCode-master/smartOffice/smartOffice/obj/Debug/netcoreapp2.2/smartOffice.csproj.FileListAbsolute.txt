@@ -1,0 +1,14 @@
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\obj\Debug\netcoreapp2.2\smartOffice.csprojAssemblyReference.cache
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\obj\Debug\netcoreapp2.2\smartOffice.csproj.CoreCompileInputs.cache
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\obj\Debug\netcoreapp2.2\smartOffice.RazorAssemblyInfo.cache
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\obj\Debug\netcoreapp2.2\smartOffice.RazorAssemblyInfo.cs
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\obj\Debug\netcoreapp2.2\smartOffice.AssemblyInfoInputs.cache
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\obj\Debug\netcoreapp2.2\smartOffice.AssemblyInfo.cs
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\obj\Debug\netcoreapp2.2\smartOffice.RazorTargetAssemblyInfo.cache
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\obj\Debug\netcoreapp2.2\smartOffice.dll
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\obj\Debug\netcoreapp2.2\smartOffice.pdb
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\bin\Debug\netcoreapp2.2\smartOffice.deps.json
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\bin\Debug\netcoreapp2.2\smartOffice.runtimeconfig.json
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\bin\Debug\netcoreapp2.2\smartOffice.runtimeconfig.dev.json
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\bin\Debug\netcoreapp2.2\smartOffice.dll
+C:\Users\didi\Documents\programming\c#\yulCode\smartOffice\smartOffice\bin\Debug\netcoreapp2.2\smartOffice.pdb
